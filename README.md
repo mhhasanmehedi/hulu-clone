@@ -2,7 +2,7 @@
 
 ## 🔴[LIVE DEMO](https://mh-hulu-clone.vercel.app/)
 
-![Preview Image](./public/images/preview.png)
+![Preview Image](./public/images/responsive.png)
 
 ### API Link:-
 
